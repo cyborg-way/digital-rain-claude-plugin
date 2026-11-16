@@ -45,3 +45,7 @@ claude --plugin-dir .
 ```
 
 Check it with `claude plugin validate .`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
