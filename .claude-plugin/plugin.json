@@ -1,0 +1,8 @@
+{
+  "name": "digital-rain",
+  "version": "0.1.0",
+  "description": "The Cyborg Way digital rain backdrop: gold and teal katakana falling behind the conversation",
+  "author": { "name": "The Cyborg Way" },
+  "homepage": "https://github.com/cyborg-way/digital-rain-claude-plugin",
+  "repository": "https://github.com/cyborg-way/digital-rain-claude-plugin"
+}

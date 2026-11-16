@@ -1,0 +1,5 @@
+{
+  "name": "digital-rain",
+  "owner": { "name": "The Cyborg Way" },
+  "plugins": [{ "name": "digital-rain", "source": "./" }]
+}
